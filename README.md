@@ -3,7 +3,7 @@
 
 ```javascript
 import SoftwareDeveloper from 'msaidara';
-import { Languages, Frameworks } from 'msaidara/skills';
+import { Languages, Frameworks, Databases, Scm, Ci, Products } from 'msaidara/skills';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Moussa AIDARA';
