@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['Java', 'HTML', 'JavaScript', 'PHP', ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  databases  = ['MySQL', 'Oracle', 'PostgreSQL', ...Databases];
   frameworks = ['Spring', 'Hibernate', 'Swagger', ...Frameworks];
   scm = ['Git', 'SVN', 'Mercurial', ...Scm];
   ci = ['Jenkins', 'Travis CI', 'CARA', ...Ci];
